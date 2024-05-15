@@ -7,7 +7,8 @@
   2.Merchant add Item or  Delete Item and Update the Item
   3.User Registarion and login
   4.User add product into cart then buy the product
-  5.User Delete the product
+  5.Display Total items price 
+  6.User Remove the product from cart
 # Use Technology
    java,Spring Mvc,Hibernate,Servlet,Jsp,Maven
 # Application Server
